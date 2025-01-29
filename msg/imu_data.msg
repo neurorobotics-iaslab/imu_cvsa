@@ -1,0 +1,10 @@
+Header header        # Standard ROS message header
+geometry_msgs/Quaternion orientation
+float64[9] orientation_covariance
+geometry_msgs/Vector3 angular_velocity
+float64[9] angular_velocity_covariance
+geometry_msgs/Vector3 linear_acceleration
+float64[9] linear_acceleration_covariance
+float64 euler_roll
+float64 euler_pitch
+float64 euler_yaw 
