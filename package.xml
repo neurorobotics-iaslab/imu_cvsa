@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <package format="2">
-  <name>imu_cvsa</name>
+  <name>imu_bci</name>
   <version>0.0.0</version>
-  <description>The imu_cvsa package</description>
+  <description>The imu_bci package</description>
 
   <!-- One maintainer tag required, multiple allowed, one person per tag -->
   <!-- Example:  -->

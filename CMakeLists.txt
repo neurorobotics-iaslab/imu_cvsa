@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.0.2)
-project(imu_cvsa)
+project(imu_bci)
 
 ## Compile as C++11, supported in ROS Kinetic and newer
 set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -std=c++11")
@@ -52,7 +52,7 @@ include_directories(
   include
   ${Xsens_INCLUDE_DIRS}
   ${catkin_INCLUDE_DIRS}
-  ${CMAKE_CURRENT_SOURCE_DIR}/include/imu_cvsa
+  ${CMAKE_CURRENT_SOURCE_DIR}/include/imu_bci
 )
 
 # online CVSA library
