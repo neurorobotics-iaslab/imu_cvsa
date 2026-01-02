@@ -1,5 +1,5 @@
 #include <ros/ros.h>
-#include "imu_cvsa/Imu.hpp"
+#include "imu_bci/Imu.hpp"
 
 int main(int argc, char** argv) {
 

@@ -14,7 +14,7 @@
 #include <xstypes/xstime.h>	
 
 #include <ros/ros.h>
-#include <imu_cvsa/imu_data.h>
+#include <imu_bci/imu_data.h>
 #include "std_srvs/Trigger.h"
 
 #include "xsmutex.h"
